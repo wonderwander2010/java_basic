@@ -1,4 +1,4 @@
-﻿package chapter_04.section_4_5;
+package chapter_04.section_4_5;
 
 /*
  * 簡単な料理の手順を、順番に画面へ表示するプログラムです。
